@@ -56,6 +56,7 @@
 								<td>Stamper</td>
 								<td>Linux Academy</td>
 							</tr>
+							<tr>
 						</tbody>
 					</table>
 				</div>
