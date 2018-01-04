@@ -46,10 +46,15 @@
 								<td>Slot-specific connection string</td>
 								<td><?php echo getenv("SQLAZURECONNSTR_SlotConnectionString"); ?></td>
 							</tr>
-														<tr>
+							<tr>
 								<td>Kieran</td>
 								<td>McLoughlin</td>
 								<td>Version1</td>
+							</tr>
+							<tr>
+								<td>Doug</td>
+								<td>Stamper</td>
+								<td>Linux Academy</td>
 							</tr>
 						</tbody>
 					</table>
